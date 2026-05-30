@@ -1,0 +1,9 @@
+{
+  "command": "GENERATE_QUESTIONS",
+  "payload": {
+    "topic": "World History",
+    "type": "Multiple Choice",
+    "difficulty": "Expert",
+    "count": 20
+  }
+}
